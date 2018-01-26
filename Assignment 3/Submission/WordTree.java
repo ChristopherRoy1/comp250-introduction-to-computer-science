@@ -1,6 +1,6 @@
 //COMP 250 - Introduction to Computer Science - Fall 2017
-//Assignment #3 - Question 1 //Christopher Roy 260687695
-
+//Assignment #3 - Question 1 
+//Christopher Roy 
 import java.util.*;
 
 /*
